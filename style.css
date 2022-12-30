@@ -60,7 +60,8 @@ html {
     height: auto;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    opacity: 0.5;
+    opacity: 0.8;
+    mix-blend-mode: multiply;
 }
 
 .leftSide {
